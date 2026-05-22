@@ -1,0 +1,44 @@
+body {
+    background-image: linear-gradient(rgb(255, 235, 199), rgb(255, 197, 90));
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-image: linear-gradient(rgb(209, 115, 115), rgb(180, 87, 87));
+    border-radius: 100px;
+    font-family: linda;
+}
+
+h2 {
+    background-image: linear-gradient(rgb(209, 115, 115), rgb(180, 87, 87));
+    border-radius: 100px;
+    font-family: linda;
+}
+
+p {
+    background-image: linear-gradient(lightgreen, rgb(115, 199, 115));
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+ol {
+    background-image: linear-gradient(white,rgb(177, 177, 177));
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    font-size: 20px;
+}
+
+ul {
+    background-image: linear-gradient(white,rgb(177, 177, 177));
+    border-radius: 15px;
+    width: 500px;
+    text-align: left;
+    font-size: 20px;    
+}
+
+@font-face {
+    font-family: "linda";
+    src: url(Relicta-Light.otf);
+}
